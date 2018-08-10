@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/tvNombre"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:layout_width="match_parent"
+        android:text="Alex Lora"
+        android:textSize="18sp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvTelefono"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:text="1323232323"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

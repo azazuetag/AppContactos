@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="txtHello">Hello World!</string>
+    <string name="title_activity_registro">Registry</string>
+    <string name="title_activity_main_detalle">Details</string>
+    <string name="title_activity_main_add_edit">Add Edit</string>
+    <string name="backup">BackUp</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="app_registration">Application Registration</string>
+    <string name="address">Address</string>
+    <string name="cell_phone">Cell phone</string>
+    <string name="home_phone">Home phone</string>
+    <string name="remember_date">Click to Remember Date</string>
+    <string name="biography">Biography</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="settings">Settings</string>
+    <string name="remember_date_detalle">Remember Date</string>
+</resources>
